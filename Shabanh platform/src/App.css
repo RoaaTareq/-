@@ -1,0 +1,12 @@
+@font-face {
+  font-family:'Tajawal';
+  src: url('../src/fonts/Tajawal-ExtraLight.ttf') format('truetype');
+  
+}
+
+body{
+  direction: rtl;
+  font-family:'Tajawal' !important;
+  background-color: #021128!important;
+  /*#91061f*/
+}
